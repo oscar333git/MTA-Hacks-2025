@@ -10,7 +10,7 @@ We created a model of the Greater Moncton Roméo LeBlanc International Airport i
 
 ## Authors:
 	
-[Oscar Schuckel-Bailey](https://github.com/Oscarsb2004)
+[Oscar S-B](https://github.com/oscar333git)
 
 [Sawyer Stanley](https://github.com/SawyersCoding)
 
